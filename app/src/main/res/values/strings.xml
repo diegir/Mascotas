@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MisContactos</string>
+    <string name="todo">TODO</string>
+    <string name="nombre">El Kokun del CAP</string>
+    <string name="telefono">0800 9020</string>
+    <string name="email">google@gmail.com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+</resources>
